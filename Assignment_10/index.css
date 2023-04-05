@@ -1,0 +1,18 @@
+body{
+    color: rgb(102, 21, 21);
+    background-color: rgb(115, 184, 31);
+    font-size: 20px;
+    margin-left: 10%;
+}
+#search-area{
+    padding: 10px 30px;
+    font-size: 18px;
+    color: rgb(116, 80, 113);
+    border: solid 4px;
+}
+#filter10{
+    padding: 10px 30px;
+    font-size: 18px;
+color: rgb(65, 12, 67);
+border: solid 4px;
+}
